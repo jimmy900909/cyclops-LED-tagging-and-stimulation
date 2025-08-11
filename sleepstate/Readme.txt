@@ -1,0 +1,1 @@
+This code will trigger LED with 5V, up to 1000mA every 3 sec. Manual control is possible in serial command by typing in 0(stop) and 1(start).
