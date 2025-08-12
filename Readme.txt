@@ -1,1 +1,3 @@
 The code is the LED control communication protocol for optogenetic animal behavior experient and other potential usage based on cyclops LED driver and Motive, software for Optitrack system.
+
+This folder considers three scenarios, the first is to trigger the LED while the target moves into a certain circle region, which you can set the radius and coordinate. The second is periodically generate a Guassian wave of stimulation, which you can adjust the duration and interval. The last but none the least is the upgrade version of the second one, which needs the communcation of .ino file and python to record the target position, time and LED state in real time of Motive. I will describe how to operate these programme in the following part .
